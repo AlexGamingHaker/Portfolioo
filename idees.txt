@@ -1,0 +1,35 @@
+Les ptits points a la gauche de présentation : SVG ou quand on clique sur un point bleu ca en met d'autre aléatoirement en bleu aussi (galere mdr mais fun)
+
+Les 6 compétence 6SAE EN GROS sous forme de liste horizontale
+
+Les codes directement avec un éditeur comme CSS help
+
+
+https://developers.google.com/maps?hl=fr
+
+
+
+Remplacer la map par un svg avec Roscoff et Lannion avec des infos quand on clique dessus
+
+2018 Brevet
+2018 2022
+2022 BAC
+2023 IUT
+
+
+Copier le truc de vérification de git hub pour le mail, avec 
+
+uiverse.io site de préfab
+code pen
+
+https://www.youtube.com/watch?v=zrDAFpiatJU
+
+
+
+
+Utiliser le parent des compétence pour placer en dessous le descriptif de la compétence à gauche avec une image à droite 
+pour prendre toute la largeur
+Copier coller le code au cas ou ca rend pas bien son idée
+
+header qui bouge en fonction de ou on est dans la page 
+et dernier projet sur l'image du caiman
